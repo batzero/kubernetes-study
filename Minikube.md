@@ -44,6 +44,12 @@ minikube delete
 
 
 
+
+
+- 참고
+
+설치 안 될 때 - 도커 설치 했는지 확인 / 프로세서 2개 인지 확인 
+
 - 참고 사이트
 
  https://kubernetes.io/docs/tasks/tools/install-minikube/ 
